@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.burakkilicarslann.twa",
+        "sha256_cert_fingerprints": ["D3:82:D3:35:C9:FF:F9:F9:8B:67:92:05:06:F4:10:E8:5F:0D:CA:BB:F1:1D:93:00:88:49:9A:D9:5A:64:F2:2D"]
+      }
+    }]
